@@ -17,7 +17,7 @@ def banner():
   sp(" \033[1;97m{\033[1;95m•\033[1;97m} \033[1;93mScript   \033[1;91m: \033[1;95mSCRIPT INI KHUSUS ANAK YATIM")
   sp(" \033[1;97m{\033[1;95m•\033[1;97m} \033[1;93mAuthor   \033[1;91m: \033[4;92mTUTOR PUNYA BAPAK")
   sp("\033[1;96m+\033[1;90m========================================\033[1;96m+")
-  def PILIH BAPAK():
+  def menu():
       print ""
       print "\033[4;92m[\033[1;91m1\033[4;92m] \033[1;96mBAPAK SELAMET"
       print "\033[4;92m[\033[1;91m2\033[4;92m] \033[1;96mBAPAK RIDWAN"
